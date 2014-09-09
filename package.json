@@ -1,0 +1,21 @@
+{
+  "name": "royce",
+  "version": "0.0.1",
+  "description": "An online publishing platform and decentralized social network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Ellis",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^0.8.0",
+    "faker": "^1.1.0",
+    "hapi": "^6.7.1",
+    "mongoose": "^3.8.15",
+    "passport": "^0.2.1",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^0.3.0",
+    "socket.io": "^1.1.0"
+  }
+}
